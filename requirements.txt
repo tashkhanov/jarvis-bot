@@ -1,4 +1,6 @@
+google-generativeai
 aiogram
 openai
 aiohttp
 aiofiles
+pillow
