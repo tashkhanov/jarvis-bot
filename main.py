@@ -15,7 +15,7 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 # ⚙️ НАСТРОЙКИ
 # ==========================================
 TG_BOT_TOKEN = "2065954275:AAEfYKiMl-ikv8-CIdBZzVYDv1cOgIwGPLE"
-GOOGLE_API_KEY = "AIzaSyBoIG3zkGWCvQMu1LWOlvbw_8S3dQkiu-Q" 
+GOOGLE_API_KEY = "AIzaSyCuxNpcGJG1mAg6sWkYgNo0_mzLjUZrkhI" 
 MY_ID = 1243374131
 
 # Модели
